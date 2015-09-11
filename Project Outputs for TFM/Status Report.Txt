@@ -1,0 +1,7 @@
+   Printed Document[RoomBug.PcbDoc]
+   Printed Document[RoomBug.PcbDoc]
+
+Files Generated   : 0
+Documents Printed : 2
+
+Finished Output Generation At 16:53:09 On 02/01/2009
